@@ -5,8 +5,6 @@ The MLD study group aims to learn Python and Bayesian statistics (possibly other
 We follow some great learining materials out there and help each other learn the meterials.
 
 ## Learing materials
-Here's a list of learning materials.
-
 #### Python
 - [Crash Course on Python](https://www.coursera.org/learn/python-crash-course)
 - [Introduction to Git and Github](https://www.coursera.org/learn/introduction-git-github?specialization=google-it-automation)
