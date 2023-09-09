@@ -1,7 +1,7 @@
 # MLD_StudyGroup
 
 ## Purpose
-The MLD study group aims to learn Python and Bayesian statistics (possibly other topics too) by studying together. 
+In the MLD study group, we aim to learn Python and Bayesian statistics (possibly other topics too) by studying together. 
 We follow some great learining materials out there and help each other learn the meterials.
 
 ## Learing materials
