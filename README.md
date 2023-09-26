@@ -14,6 +14,8 @@ We follow some great learining materials out there and help each other learn the
 - [Machine Learning Basics](https://github.com/EsamGhaleb/MachineLearningBasics)
 
 #### Bayesian statistics
+- [Bayes theorem](https://www.youtube.com/watch?v=HZGCoVF3YvM)
+- [The Bayesian trap](https://www.youtube.com/watch?v=R13BD8qKeTg)
 - [Workshop on Bayesian Inference](https://4ccoxau.github.io/PriorsWorkshop/)
 - [Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2023)
 - [An Introduction to Bayesian Data Analysis for Cognitive Science](https://vasishth.github.io/bayescogsci/book/)
