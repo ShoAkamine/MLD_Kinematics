@@ -1,0 +1,7 @@
+Begin Time - msec	End Time - msec	Duration - msec	gesture_type
+145524	145859	335	beat
+146325	146605	280	beat
+147601	148882	1281	metaphoric
+149502	149622	120	beat
+150903	151290	387	iconic
+
