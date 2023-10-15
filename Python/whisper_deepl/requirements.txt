@@ -1,0 +1,9 @@
+git+https://github.com/openai/whisper.git
+ffmpeg-python
+soundfile
+datetime
+git+https://github.com/linto-ai/whisper-timestamped
+onnxruntime
+torch
+torchaudio
+deepl
